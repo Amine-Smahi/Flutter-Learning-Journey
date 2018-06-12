@@ -1,6 +1,6 @@
 # jokies
 
-A new Flutter project.
+Get randome jokes from https://icanhazdadjoke.com/
 
 ## Sreenshot
 
