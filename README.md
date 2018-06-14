@@ -1,6 +1,6 @@
 # jokies
 
-Get randome jokes from https://icanhazdadjoke.com/
+Get random jokes from https://icanhazdadjoke.com/
 
 ## Sreenshot
 
